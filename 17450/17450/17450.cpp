@@ -30,3 +30,6 @@ int main(void)
 	else if (maxIndex == 2)
 		cout << "U";
 }
+
+// C++ 연습
+//단순한 사칙연산으로 풀 수 있음
